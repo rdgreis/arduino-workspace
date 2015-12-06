@@ -1,6 +1,6 @@
 # NodeMCU Weather Station
 
-It collects data from sensors and send it to Thingspeak's api.
+This example collects data from sensors and send it to Thingspeak's api.
 
 ## Instructions:
  - Update the file [init.lua](src/init.lua#L17) init.lua with your thingsspeak's api token.
